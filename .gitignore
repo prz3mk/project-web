@@ -1,0 +1,20 @@
+"" 
+# Ignorowanie plików binarnych, katalogów i plików tymczasowych
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Ignorowanie plików konfiguracyjnych
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+
+# Ignorowanie plików kompilacji
+*.dll
+*.exe
+*.pdb
+*.pack
